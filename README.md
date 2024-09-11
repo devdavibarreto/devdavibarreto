@@ -42,6 +42,7 @@
 ## Projetos destaques
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devdavibarreto&repo=COMPLETE_API_FOR_EVERTHING&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1c1fd2&text_color=FFF)](https://github.com/devdavibarreto/COMPLETE_API_FOR_EVERTHING)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devdavibarreto&repo=COMPLETE_API_FOR_EVERTHING&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=1c1fd2&text_color=FFF)](https://github.com/devdavibarreto/interface)
 
 <!--
 **devdavibarreto/devdavibarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
