@@ -37,8 +37,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devdavibarreto&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdavibarreto&theme=transparent&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devdavibarreto&bg_color=000&border_color=30A3DC&title_color=1c1fd2&text_color=FFF)
+
+
 
 ## Projetos destaques
 
